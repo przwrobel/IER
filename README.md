@@ -8,6 +8,10 @@ Dataframes with step count measured with app and omron device are created and av
 T-tests are performed with division by: year, gender, week part.
 Results are saved to "results.txt" file generated in the same directory in which "Data_analysis_code.py" is placed.
 
+### Data
+
+Data for the analysis is availible under this link: https://gitlab.tudelft.nl/yturkyilmaz/Introduction_to_Engineering_Research/-/tree/master/Data_analysis
+
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
