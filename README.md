@@ -10,7 +10,7 @@ Results are saved to "results.txt" file generated in the same directory in which
 
 ### Data
 
-Data for the analysis is availible under this link: https://gitlab.tudelft.nl/yturkyilmaz/Introduction_to_Engineering_Research/-/tree/master/Data_analysis
+Data for the analysis is available under this link: https://gitlab.tudelft.nl/yturkyilmaz/Introduction_to_Engineering_Research/-/tree/master/Data_analysis
 
 ## Getting Started
 
